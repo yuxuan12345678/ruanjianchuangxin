@@ -2,11 +2,6 @@
 高德地图API深度集成 · MCP框架支持的旅游计划一键可视化生成工具
 # 旅游计划一键可视化生成工具（AMAP MCP Server）
 
-<div align="right">
-
-[English](README_EN.md) | 中文
-
-</div>
 
 > 本项目基于高德地图API开发，旨在为用户提供便捷的旅游计划一键可视化生成服务。
 
